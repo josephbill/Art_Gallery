@@ -86,4 +86,21 @@ p {
 5. Add files to be tracked 
      git add filename
      git add foldername
-     git add .  :: all files
+     git add .  :: all files 
+6. Commit with a message 
+     git commit -m "message value"
+7. We can now push to our desired origin 
+     git push origin branchname  (use git branch to check branch name)
+
+
+
+## SCENERIO B : PUSHING AN EXISTING PROJECT 
+- assumptions : git repo exists, you have already done an initial push 
+
+1. git status
+2.   git add filename
+     git add foldername
+     git add .  :: all files 
+
+3. git commit -m "value message"
+4. git push origin branchname
