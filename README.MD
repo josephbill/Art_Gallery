@@ -104,3 +104,7 @@ p {
 
 3. git commit -m "value message"
 4. git push origin branchname
+
+
+## DAY 9 
+### HTML , CSS , Bootstrap , JS DOM :: Hosting on github pages 

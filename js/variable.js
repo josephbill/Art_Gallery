@@ -22,3 +22,8 @@ let third_person = null;
 console.log(third_person)
 
 let isfinanced = true;
+
+
+// functions : grouping/block of code that executes a specific task.
+
+
