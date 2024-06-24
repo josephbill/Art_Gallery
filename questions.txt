@@ -1,0 +1,18 @@
+1.  swap the values of two variables, you can either use a third 
+(temporary) variable and perform the swap directly without using a third variable.
+
+let a  = 4 
+let b = 10 
+
+console.log(a) = 10 
+console.log(b) = 4
+
+2. Given three integers a, b, and c, determine the maximum value among them. 
+(variable use , conditionals and logic operators)
+
+let a = 3 
+let b = 7 
+let c = 5 
+
+output : 7
+
